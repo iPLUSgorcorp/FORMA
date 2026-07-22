@@ -1,21 +1,21 @@
 # FORMA
 
-Демонстрационный fashion e-commerce сайт премиального бренда FORMA. Проект включает каталог, страницы товаров, варианты цвета и размера, избранное, корзину, демонстрационный checkout, lookbook, коллекции и отдельные контактные страницы на английском и украинском языках.
+A demo fashion e-commerce website for the premium brand FORMA. The project includes a product catalog, product pages, color and size variants, favorites, a shopping cart, a demo checkout, a lookbook, collections, and separate contact pages in English and Ukrainian.
 
-> Проект является демонстрационным концептом. Реальные платежи не принимаются.
+> This project is a demonstration concept. No real payments are accepted.
 
-## Запуск локально
+## Running locally
 
-Требуется Node.js 20.9 или новее.
+Node.js 20.9 or later is required.
 
 ```bash
 npm install
 npm run dev
 ```
 
-Откройте `http://localhost:3000`.
+Open `http://localhost:3000`.
 
-## Проверка и production-сборка
+## Validation and production build
 
 ```bash
 npm run typecheck
@@ -24,26 +24,26 @@ npm run build
 npm run start
 ```
 
-## Основные маршруты
+## Main routes
 
-- `/` — главная страница
-- `/shop` — каталог
-- `/product/[id]` — карточка товара
-- `/lookbook` — редакционный lookbook
-- `/collections` — коллекции
-- `/cart` — корзина
-- `/checkout` — демонстрационный checkout
-- `/contact/en` — контактная страница на английском
-- `/contact/ua` — контактная страница на украинском
+* `/` — homepage
+* `/shop` — product catalog
+* `/product/[id]` — product page
+* `/lookbook` — editorial lookbook
+* `/collections` — collections
+* `/cart` — shopping cart
+* `/checkout` — demo checkout
+* `/contact/en` — contact page in English
+* `/contact/ua` — contact page in Ukrainian
 
-## Данные и состояние
+## Data and state
 
-Каталог хранится локально. Корзина, избранное и выбранный язык сохраняются в `localStorage`. Сервер, база данных, авторизация и платёжные SDK не используются.
+The product catalog is stored locally. The shopping cart, favorites, and selected language are persisted in `localStorage`. No server, database, authentication, or payment SDKs are used.
 
-Все оптимизированные изображения сайта находятся в `public/images`, а их назначение описано в `public/images/products/manifest.json`.
+All optimized website images are stored in `public/images`, and their purpose is documented in `public/images/products/manifest.json`.
 
-## Публикация
+## Deployment
 
-Репозиторий можно импортировать в Vercel или развернуть на любой платформе с поддержкой Node.js. Команда сборки: `npm run build`; команда запуска: `npm run start`.
+The repository can be imported into Vercel or deployed to any platform that supports Node.js. Build command: `npm run build`; start command: `npm run start`.
 
-Контакт команды: [igorcorp.tech@gmail.com](mailto:igorcorp.tech@gmail.com)
+Team contact: [igorcorp.tech@gmail.com](mailto:igorcorp.tech@gmail.com)
