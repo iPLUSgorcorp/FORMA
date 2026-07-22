@@ -1,0 +1,299 @@
+{
+  "brand": "FORMA",
+  "collection": "Architectural Essentials",
+  "imageStyle": "premium minimal architectural fashion photography",
+  "webRoot": "/images/products/",
+  "originalsRoot": "/assets/originals/products/",
+  "products": [
+    {
+      "id": "w-tailored-set",
+      "name": "Sculpted Collarless Tailored Set",
+      "department": "women",
+      "category": "tailoring",
+      "variants": [
+        { "color": "ivory", "images": ["w-tailored-set-ivory-01.webp", "w-tailored-set-ivory-02-rear.webp"] },
+        { "color": "charcoal", "images": ["w-tailored-set-charcoal-01.webp"] },
+        { "color": "camel", "images": ["w-tailored-set-camel-01.webp"] },
+        { "color": "navy", "images": ["w-tailored-set-navy-01.webp"] }
+      ]
+    },
+    {
+      "id": "w-column-dress",
+      "name": "Fold-Neck Column Dress",
+      "department": "women",
+      "category": "dresses",
+      "variants": [
+        { "color": "pearl", "images": ["w-column-dress-pearl-01.webp"] },
+        { "color": "black", "images": ["w-column-dress-black-01.webp"] },
+        { "color": "clay", "images": ["w-column-dress-clay-01.webp"] },
+        { "color": "smoke", "images": ["w-column-dress-smoke-01.webp"] }
+      ]
+    },
+    {
+      "id": "w-rib-knit-top",
+      "name": "Offset-Neck Rib Knit Top",
+      "department": "women",
+      "category": "tops",
+      "variants": [{ "color": "black", "images": ["w-rib-knit-top-black-01.webp"] }]
+    },
+    {
+      "id": "w-trench",
+      "name": "Diagonal Storm-Flap Trench",
+      "department": "women",
+      "category": "outerwear",
+      "variants": [{ "color": "stone", "images": ["w-trench-stone-01.webp"] }]
+    },
+    {
+      "id": "w-silk-shirt",
+      "name": "Sculpted Collar Silk Shirt",
+      "department": "women",
+      "category": "tops",
+      "variants": [{ "color": "oyster", "images": ["w-silk-shirt-oyster-01.webp"] }]
+    },
+    {
+      "id": "w-wrap-skirt",
+      "name": "Architectural Wrap Skirt",
+      "department": "women",
+      "category": "bottoms",
+      "variants": [{ "color": "graphite", "images": ["w-wrap-skirt-graphite-01.webp"] }]
+    },
+    {
+      "id": "w-wide-trouser",
+      "name": "Curved-Waist Wide Trouser",
+      "department": "women",
+      "category": "bottoms",
+      "variants": [{ "color": "oat", "images": ["w-wide-trouser-oat-01.webp"] }]
+    },
+    {
+      "id": "m-technical-jacket",
+      "name": "Panelled Technical Jacket",
+      "department": "men",
+      "category": "outerwear",
+      "variants": [{ "color": "black", "images": ["m-technical-jacket-black-01.webp"] }]
+    },
+    {
+      "id": "m-relaxed-shirt",
+      "name": "Hidden-Placket Relaxed Shirt",
+      "department": "men",
+      "category": "tops",
+      "variants": [{ "color": "mineral", "images": ["m-relaxed-shirt-mineral-01.webp"] }]
+    },
+    {
+      "id": "m-oversized-tee",
+      "name": "Heavyweight Oversized Tee",
+      "department": "men",
+      "category": "tops",
+      "variants": [{ "color": "bone", "images": ["m-oversized-tee-bone-01.webp"] }]
+    },
+    {
+      "id": "m-sculpted-hoodie",
+      "name": "Sculpted Hood Sweatshirt",
+      "department": "men",
+      "category": "tops",
+      "variants": [{ "color": "charcoal", "images": ["m-sculpted-hoodie-charcoal-01.webp"] }]
+    },
+    {
+      "id": "a-crescent-bag",
+      "name": "Crescent Leather Shoulder Bag",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "black", "images": ["a-crescent-bag-black-01.webp", "a-crescent-bag-black-02-rear.webp"] }]
+    },
+    {
+      "id": "a-fold-tote",
+      "name": "Fold-Side Leather Tote",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "taupe", "images": ["a-fold-tote-taupe-01.webp"] }]
+    },
+    {
+      "id": "a-fold-slide",
+      "name": "Architectural Fold Slide",
+      "department": "unisex",
+      "category": "shoes",
+      "variants": [{ "color": "black", "images": ["a-fold-slide-black-01.webp"] }]
+    },
+    {
+      "id": "w-cropped-utility-jacket",
+      "name": "Cropped Utility Jacket",
+      "department": "women",
+      "category": "outerwear",
+      "variants": [{ "color": "sage", "images": ["w-cropped-utility-jacket-sage-01.webp"] }]
+    },
+    {
+      "id": "w-draped-blouse",
+      "name": "Draped Bateau Blouse",
+      "department": "women",
+      "category": "tops",
+      "variants": [{ "color": "ink", "images": ["w-draped-blouse-ink-01.webp"] }]
+    },
+    {
+      "id": "w-longline-vest",
+      "name": "Asymmetric Longline Vest",
+      "department": "women",
+      "category": "tailoring",
+      "variants": [{ "color": "sand", "images": ["w-longline-vest-sand-01.webp"] }]
+    },
+    {
+      "id": "w-pleated-shorts",
+      "name": "Tailored Pleated Bermuda",
+      "department": "women",
+      "category": "bottoms",
+      "variants": [{ "color": "stone", "images": ["w-pleated-shorts-stone-01.webp"] }]
+    },
+    {
+      "id": "w-knit-midi-dress",
+      "name": "Diagonal Rib-Knit Midi Dress",
+      "department": "women",
+      "category": "dresses",
+      "variants": [{ "color": "burgundy", "images": ["w-knit-midi-dress-burgundy-01.webp"] }]
+    },
+    {
+      "id": "w-barrel-trouser",
+      "name": "Sculpted Barrel Trouser",
+      "department": "women",
+      "category": "bottoms",
+      "variants": [{ "color": "charcoal", "images": ["w-barrel-trouser-charcoal-01.webp"] }]
+    },
+    {
+      "id": "w-wrap-coat",
+      "name": "Double-Face Wrap Coat",
+      "department": "women",
+      "category": "outerwear",
+      "variants": [{ "color": "black", "images": ["w-wrap-coat-black-01.webp"] }]
+    },
+    {
+      "id": "w-fine-cardigan",
+      "name": "Fine-Gauge Merino Cardigan",
+      "department": "women",
+      "category": "knitwear",
+      "variants": [{ "color": "oat", "images": ["w-fine-cardigan-oat-01.webp"] }]
+    },
+    {
+      "id": "w-sculpted-jumpsuit",
+      "name": "Sculpted Wide-Leg Jumpsuit",
+      "department": "women",
+      "category": "jumpsuits",
+      "variants": [{ "color": "slate", "images": ["w-sculpted-jumpsuit-slate-01.webp"] }]
+    },
+    {
+      "id": "w-leather-midi-skirt",
+      "name": "Panelled Leather Midi Skirt",
+      "department": "women",
+      "category": "bottoms",
+      "variants": [{ "color": "espresso", "images": ["w-leather-midi-skirt-espresso-01.webp"] }]
+    },
+    {
+      "id": "m-utility-overshirt",
+      "name": "Panelled Utility Overshirt",
+      "department": "men",
+      "category": "outerwear",
+      "variants": [{ "color": "olive", "images": ["m-utility-overshirt-olive-01.webp"] }]
+    },
+    {
+      "id": "m-tapered-cargo",
+      "name": "Streamlined Tapered Cargo",
+      "department": "men",
+      "category": "bottoms",
+      "variants": [{ "color": "black", "images": ["m-tapered-cargo-black-01.webp"] }]
+    },
+    {
+      "id": "m-knit-polo",
+      "name": "Open-Collar Knit Polo",
+      "department": "men",
+      "category": "knitwear",
+      "variants": [{ "color": "sand", "images": ["m-knit-polo-sand-01.webp"] }]
+    },
+    {
+      "id": "m-long-wool-coat",
+      "name": "Concealed-Front Wool Coat",
+      "department": "men",
+      "category": "outerwear",
+      "variants": [{ "color": "camel", "images": ["m-long-wool-coat-camel-01.webp"] }]
+    },
+    {
+      "id": "m-zip-cardigan",
+      "name": "High-Collar Zip Cardigan",
+      "department": "men",
+      "category": "knitwear",
+      "variants": [{ "color": "graphite", "images": ["m-zip-cardigan-graphite-01.webp"] }]
+    },
+    {
+      "id": "m-relaxed-blazer",
+      "name": "Soft-Shoulder Relaxed Blazer",
+      "department": "men",
+      "category": "tailoring",
+      "variants": [{ "color": "stone", "images": ["m-relaxed-blazer-stone-01.webp"] }]
+    },
+    {
+      "id": "m-pleated-shorts",
+      "name": "Wide Pleated Tailored Shorts",
+      "department": "men",
+      "category": "bottoms",
+      "variants": [{ "color": "black", "images": ["m-pleated-shorts-black-01.webp"] }]
+    },
+    {
+      "id": "m-sleeveless-vest",
+      "name": "Technical Sleeveless Vest",
+      "department": "men",
+      "category": "outerwear",
+      "variants": [{ "color": "navy", "images": ["m-sleeveless-vest-navy-01.webp"] }]
+    },
+    {
+      "id": "a-mini-top-handle-bag",
+      "name": "Folded Mini Top-Handle Bag",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "oxblood", "images": ["a-mini-top-handle-bag-oxblood-01.webp"] }]
+    },
+    {
+      "id": "a-sculpted-belt",
+      "name": "Sculpted Buckle Leather Belt",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "black", "images": ["a-sculpted-belt-black-01.webp"] }]
+    },
+    {
+      "id": "a-fold-wallet",
+      "name": "Curved-Flap Fold Wallet",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "taupe", "images": ["a-fold-wallet-taupe-01.webp"] }]
+    },
+    {
+      "id": "a-minimal-cap",
+      "name": "Short-Brim Minimal Cap",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "charcoal", "images": ["a-minimal-cap-charcoal-01.webp"] }]
+    },
+    {
+      "id": "a-wool-scarf",
+      "name": "Selvedge Merino-Cashmere Scarf",
+      "department": "unisex",
+      "category": "accessories",
+      "variants": [{ "color": "oat", "images": ["a-wool-scarf-oat-01.webp"] }]
+    },
+    {
+      "id": "s-square-loafer",
+      "name": "Fold-Saddle Square Loafer",
+      "department": "unisex",
+      "category": "shoes",
+      "variants": [{ "color": "black", "images": ["s-square-loafer-black-01.webp"] }]
+    },
+    {
+      "id": "s-minimal-sneaker",
+      "name": "Curved-Panel Minimal Sneaker",
+      "department": "unisex",
+      "category": "shoes",
+      "variants": [{ "color": "bone", "images": ["s-minimal-sneaker-bone-01.webp"] }]
+    },
+    {
+      "id": "s-soft-ankle-boot",
+      "name": "Curved-Seam Ankle Boot",
+      "department": "unisex",
+      "category": "shoes",
+      "variants": [{ "color": "espresso", "images": ["s-soft-ankle-boot-espresso-01.webp"] }]
+    }
+  ]
+}
